@@ -30,7 +30,7 @@
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 - **HTML5**, **CSS3**, **JavaScript (Vanilla)**
 - **Chart.js** – for chart rendering
