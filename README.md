@@ -2,7 +2,7 @@
 
 **StatsForce** is a dynamic frontend web app that provides deep insights into Codeforces user profiles using real-time data from the official Codeforces API. Designed with modern UI principles and powered by Chart.js, StatsForce helps users visualize their rating trends, problem-solving patterns, and contest performance — all in an interactive and mobile-friendly dashboard.
 
-**Live Demo**: [Explore the Dashboard](https://adit8676.github.io/StatsForce/)
+**Live Demo**: [Try StatsForce Now](https://adit8676.github.io/StatsForce/)
 
 ---
 
