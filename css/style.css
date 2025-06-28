@@ -1091,7 +1091,7 @@ body {
     }
 }
 
-@media (max-width: 380px)
+@media (max-width: 410px)
 {
     .target-cmp {
         display: none;
