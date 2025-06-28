@@ -1106,7 +1106,26 @@ body {
     }
 }
 
-@media (max-width: 320px)
+@media (max-width: 375px)
+{
+    .target-cmp {
+        display: none;
+    }
+
+    .nav-link{
+        font-size: 1.1em;
+    }
+
+    .nav-menu {
+        margin-left: 6px;
+    }
+
+    .stats-name {
+        font-size: 1.1rem; 
+    }
+}
+
+@media (max-width: 340px)
 {
     .target-cmp {
         display: none;
