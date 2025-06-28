@@ -1076,7 +1076,37 @@ body {
     display: block; 
 }
 
+@media (max-width: 450px)
+{
+    .target-cmp {
+        display: none;
+    }
+
+    .nav-link{
+        font-size: 1.0em;
+    }
+
+    .nav-menu {
+        margin-left: 10px;
+    }
+}
+
 @media (max-width: 380px)
+{
+    .target-cmp {
+        display: none;
+    }
+
+    .nav-link{
+        font-size: 0.9em;
+    }
+
+    .nav-menu {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 320px)
 {
     .target-cmp {
         display: none;
