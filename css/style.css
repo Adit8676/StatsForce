@@ -1113,10 +1113,14 @@ body {
     }
 
     .nav-link{
-        font-size: 0.72em;
+        font-size: 0.9em;
     }
 
     .nav-menu {
-        margin-left: 10px;
+        margin-left: 6px;
+    }
+
+    .stats-name {
+        font-size: 1.1rem; 
     }
 }
