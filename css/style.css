@@ -1075,3 +1075,18 @@ body {
 .visible {
     display: block; 
 }
+
+@media (max-width: 320px)
+{
+    .target-cmp {
+        display: none;
+    }
+
+    .nav-link{
+        font-size: 0.7em;
+    }
+
+    .nav-menu {
+        margin-left: 10px;
+    }
+}
