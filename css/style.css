@@ -1076,7 +1076,7 @@ body {
     display: block; 
 }
 
-@media (max-width: 335px)
+@media (max-width: 380px)
 {
     .target-cmp {
         display: none;
