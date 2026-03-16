@@ -51,11 +51,8 @@
 ---
 
 ## Future Enhancements
-- Dark theme support with persistent user preference
+- Light theme support with persistent user preference
 - Export charts as images or PDF
 
----
-
-Developed by [Aditya Singh](mailto:aditya09313@gmail.com) **|** [LinkedIn](https://linkedin.com/in/aditya8676) **|** [Codeforces](https://codeforces.com/profile/Aditya8676)
 
 
